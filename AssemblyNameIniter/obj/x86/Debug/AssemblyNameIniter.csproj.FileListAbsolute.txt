@@ -1,0 +1,10 @@
+D:\asaNU\AssemblyNameIniter\AssemblyNameIniter\bin\Debug\AssemblyNameIniter.exe
+D:\asaNU\AssemblyNameIniter\AssemblyNameIniter\bin\Debug\AssemblyNameIniter.pdb
+D:\asaNU\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\asaNU\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\AssemblyNameIniter.exe
+D:\asaNU\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\AssemblyNameIniter.pdb
+D:\NewProjects\NET\AssemblyNameIniter\AssemblyNameIniter\bin\Debug\AssemblyNameIniter.exe
+D:\NewProjects\NET\AssemblyNameIniter\AssemblyNameIniter\bin\Debug\AssemblyNameIniter.pdb
+D:\NewProjects\NET\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NewProjects\NET\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\AssemblyNameIniter.exe
+D:\NewProjects\NET\AssemblyNameIniter\AssemblyNameIniter\obj\x86\Debug\AssemblyNameIniter.pdb
